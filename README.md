@@ -1,2 +1,2 @@
-# 2022-NEAF-DIP-master
-for NEAF DIP training.
+# NEAF2022-DIP-workshop
+2022 NEAF Training - DIP
